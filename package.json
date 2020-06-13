@@ -1,4 +1,5 @@
-{ "name": "voiceapi",
+{
+  "name": "voiceapi",
   "version": "1.0.0",
   "description": "A Customizable Voice API using Africastalking",
   "main": "app.js",
