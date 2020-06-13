@@ -1,0 +1,31 @@
+{ "name": "voiceapi",
+  "version": "1.0.0",
+  "description": "A Customizable Voice API using Africastalking",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwinnduti/voiceapi.git"
+  },
+  "keywords": [
+    "'Voice",
+    "API",
+    "using",
+    "javascript'",
+    "'edwin",
+    "nduti'"
+  ],
+  "author": "edwinnduti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwinnduti/voiceapi/is
+sues"
+  },
+  "homepage": "https://github.com/edwinnduti/tbag-ussd#readme"
+}
